@@ -1,3 +1,12 @@
+LIBRERIAS:
+
+pandas
+numpy 
+sqlalchemy
+sqlite3
+
+--->main.py
+
 PROCESO dataset en diferentes formatos los CONVIERTO A CSV 
 
 PARQUET
