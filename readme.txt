@@ -5,7 +5,7 @@ numpy
 sqlalchemy
 sqlite3
 
-UBUCACION--->jupyter/main.py
+UBICACION--->jupyter/main.py
 
 PROCESO dataset en diferentes formatos los CONVIERTO A CSV 
 
