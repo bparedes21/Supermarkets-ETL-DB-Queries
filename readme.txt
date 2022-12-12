@@ -6,7 +6,7 @@ sqlalchemy
 sqlite3
 
 UBICACION--->jupyter/main.py
-
+Data_ENGINEERING
 PROCESO dataset en diferentes formatos los CONVIERTO A CSV 
 
 PARQUET
