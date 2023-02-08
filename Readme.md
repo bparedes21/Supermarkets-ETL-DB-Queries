@@ -1,37 +1,10 @@
-LIBRERIAS:
-
-pandas
-numpy 
-sqlalchemy
-sqlite3
-
-UBICACION--->jupyter/main.py
-Data_ENGINEERING
-PROCESO dataset en diferentes formatos los CONVIERTO A CSV 
-
-PARQUET
-
-CSV
-
-JSON 
-
-XLSX (2 hojas)
-
-TXT 
-
-******************************************************************************
-CREO BASE DE DATOS
-CREO LAS TABLAS: sucursales, clientes, precios
-EJECUTO CONSULTAS
-******************************************************************************
-
 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <div align = "center">
 
-# [30 retos de OpenBootcamp](#)
+# [Proyecto individual Data Engineer🧰  de Bootcamp Soy henry](#)
   
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
@@ -54,9 +27,8 @@ EJECUTO CONSULTAS
 ## Directory Structure
 
 ```js
-├── 30 retos
-│   ├── Reto1.py
-│   ├── streamlit_app.py
+├── jupyter
+│   ├── main.py
 │ 
 └── README.md
 ```
@@ -65,7 +37,28 @@ EJECUTO CONSULTAS
   
 ## About
 
-Retos que debo realizar en Python poniendo a prueba mis conocimientos, realizando diferentes ejercicios.
+-PROCESO dataset en diferentes formatos los CONVIERTO A CSV
+| | Formatos |
+|--|----------------|
+| 1 | PARQUET  |
+| 2 | JSON | 
+| 3 | XLSX |
+| 4 | TXT |
+
+PROCESO dataset en diferentes formatos los CONVIERTO A CSV 
+PARQUET
+CSV
+JSON 
+XLSX (2 hojas)
+TXT 
+
+******************************************************************************
+CREO BASE DE DATOS
+CREO LAS TABLAS: sucursales, clientes, precios
+EJECUTO CONSULTAS
+******************************************************************************
+
+
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
@@ -74,8 +67,11 @@ Retos que debo realizar en Python poniendo a prueba mis conocimientos, realizand
 - Cada reto tiene librerias y configuraciones diferentes. Lista de librerias utilizadas en orden segun los retos realizados
 
 ```js      
+
 !pip install pandas
-!pip install streamlit
+!pip install numpy 
+!pip install sqlalchemy
+!pip install sqlite3
 
 ```
 
