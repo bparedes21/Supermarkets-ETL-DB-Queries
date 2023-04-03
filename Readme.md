@@ -57,7 +57,7 @@ EJECUTO CONSULTAS
 
 ## Setup
 
-- Cada reto tiene librerias y configuraciones diferentes. Lista de librerias utilizadas en orden segun los retos realizados
+-Configuracion. Lista de librerias utilizadas
 
 ```js      
 
