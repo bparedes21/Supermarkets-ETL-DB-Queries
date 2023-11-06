@@ -17,7 +17,7 @@
 |--|----------------|
 | 1 | [About](#About)  |
 | 2 | [Setup](#setup)  | 
-| 3 | [Consultas SQL](#ConsultasSQL)  | 
+| 3 | [Consultas_SQL](#Consultas_SQL)  | 
 
 
 
@@ -111,6 +111,7 @@ ORDER BY  cantidad_por_producto DESC
 LIMIT 3
 
 ```
+<div align = "center">
 
 | marca | cantidad_por_producto |
 | --- | --- |
@@ -118,6 +119,7 @@ LIMIT 3
 | ARCOR     | 14937|
 | PANTENE     | 14482|
 
+</div>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
