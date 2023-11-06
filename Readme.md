@@ -121,7 +121,7 @@ Resultado de la consulta:
 
 </div>
 
-Se desea saber el top 10 de sucursales con mas productos en su listado y cual marca es la que mas comercian.  
+Se desea saber el top 10 de sucursales con mas productos en su listado con marca y cual marca es la que mas comercian.  
 
 ```
 SELECT s.banderaDescripcion ,p.marca, COUNT(prec.producto_id) as cantidad_por_producto FROM precio as prec
