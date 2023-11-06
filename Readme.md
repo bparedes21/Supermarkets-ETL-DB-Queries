@@ -44,6 +44,7 @@
 Extraer y transformar archivos:
 ******************************************************************************
 <div align = "center">
+</br>
 | | Formatos |
 |--|----------------|
 | 1 | PARQUET  |
