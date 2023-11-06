@@ -54,7 +54,7 @@ Extraer y transformar archivos:
 | 2 | [JSON]    | 
 | 3 | [XLSX]    |
 | 4 | [TXT]     |
-| 4 | [CSV]     |
+| 5 | [CSV]     |
 
 ******************************************************************************
 </div>
@@ -69,9 +69,13 @@ Insertar datos con carga incremental. ​
 Cargando solo los registros nuevos o medificados.
 
 ******************************************************************************
+<div>
 <a href=""><img src="/Presentación/Slide2.jpg" width="100%"></a>
+</div>
 ******************************************************************************
+<div>
 <a href=""><img src="/Presentación/Slide1.png" width="100%"></a>
+</div>
 ******************************************************************************
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
