@@ -17,7 +17,7 @@
 |--|----------------|
 | 1 | [About](#About)  |
 | 2 | [Setup](#setup)  | 
-| 3 | [Consultas SQL](#Consultas SQL)  | 
+| 3 | [Consultas SQL](#ConsultasSQL)  | 
 
 
 
@@ -34,7 +34,7 @@
 │   │──extraccion_de_archivos.py
 │   │──funciones_transformacion.py
 │   │── carga_de_datos.py
-
+│   │──mi_base_de_datos.db
 │   
 │ 
 └── README.md
@@ -100,7 +100,7 @@ Extraer y transformar archivos:
 Se desea saber el total de productos por marca
 
     
-
+```
 SELECT p.marca, COUNT(prec.producto_id) as cantidad_por_producto FROM precio as prec
 inner join 
 producto p ON p.producto_id  = prec.producto_id
@@ -109,6 +109,8 @@ WHERE prec.precio >0 and marca <> "SIN MARCA"
 GROUP BY  p.marca
 ORDER BY  cantidad_por_producto DESC  
 LIMIT 3
+
+```
 
 | marca | cantidad_por_producto |
 | --- | --- |
