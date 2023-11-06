@@ -44,11 +44,16 @@
 | 2 | JSON | 
 | 3 | XLSX |
 | 4 | TXT |
-
+| 4 | CSV |
+<a href=""><img src="/Presentación/Slide2.jpg" width="100%"></a>
 ******************************************************************************
-CREO BASE DE DATOS
-CREO LAS TABLAS: sucursales, clientes, precios
-EJECUTO CONSULTAS
+Crear base de datos,​
+
+Crear tablas: precio, producto, sucursal,​
+
+Insertar datos con carga incremental. ​
+
+Cargando solo los registros nuevos o medificados.
 ******************************************************************************
 
 
@@ -62,8 +67,6 @@ EJECUTO CONSULTAS
 ```js      
 
 !pip install pandas
-!pip install numpy 
-!pip install sqlalchemy
 !pip install sqlite3
 
 ```
