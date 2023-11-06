@@ -43,6 +43,7 @@
 ## About
 Extraer y transformar archivos:
 ******************************************************************************
+<div align = "center">
 | | Formatos |
 |--|----------------|
 | 1 | PARQUET  |
@@ -50,6 +51,7 @@ Extraer y transformar archivos:
 | 3 | XLSX |
 | 4 | TXT |
 | 4 | CSV |
+</div>
 ******************************************************************************
 
 Crear base de datos,​
