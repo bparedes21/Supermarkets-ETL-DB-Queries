@@ -49,7 +49,7 @@ Extraer y transformar archivos:
 </div>
 </br>
 
-## :hammer:Formatos de archivos
+## :hammer: Formatos de archivos
 
 - `PARQUET`
 - `JSON`
@@ -59,15 +59,13 @@ Extraer y transformar archivos:
 
 ******************************************************************************
 
+## :factory: Transformar y cargar
 
+- `Crear base de datos SQL llamada: mi_base_de_datos`
+- `Crear tablas: precio, producto, sucursal`
+- `Insertar datos con carga incremental`
+- `Cargando solo los registros nuevos o medificados`
 
-Crear base de datos,​
-
-Crear tablas: precio, producto, sucursal,​
-
-Insertar datos con carga incremental. ​
-
-Cargando solo los registros nuevos o medificados.
 <div align = "center">
 ******************************************************************************
 
