@@ -46,7 +46,7 @@
 
 ## About
 Extraer y transformar archivos:
-
+</div>
 </br>
 |   | Formatos  |
 |---|-----------|
@@ -56,8 +56,8 @@ Extraer y transformar archivos:
 | 4 | [TXT]     |
 | 5 | [CSV]     |
 
-</div>
 ******************************************************************************
+
 
 
 Crear base de datos,​
@@ -67,16 +67,17 @@ Crear tablas: precio, producto, sucursal,​
 Insertar datos con carga incremental. ​
 
 Cargando solo los registros nuevos o medificados.
+<div align = "center">
+******************************************************************************
+
+<a href=""><img src="/Presentación/Slide2.jpg" width="100%"></a>
 
 ******************************************************************************
-<div>
-<a href=""><img src="/Presentación/Slide2.jpg" width="100%"></a>
-</div>
-******************************************************************************
-<div>
+
 <a href=""><img src="/Presentación/Slide1.jpg" width="100%"></a>
-</div>
+
 ******************************************************************************
+</div>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ## Setup
