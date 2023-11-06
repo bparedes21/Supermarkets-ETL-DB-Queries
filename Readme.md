@@ -47,11 +47,11 @@ Extraer y transformar archivos:
 </br>
 | | Formatos |
 |--|----------------|
-| 1 | PARQUET  |
-| 2 | JSON | 
-| 3 | XLSX |
-| 4 | TXT |
-| 4 | CSV |
+| 1 |[PARQUET] |
+| 2 | [JSON] | 
+| 3 | [XLSX] |
+| 4 | [TXT] |
+| 4 | [CSV] |
 </div>
 ******************************************************************************
 
