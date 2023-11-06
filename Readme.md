@@ -67,6 +67,7 @@ Extraer y transformar archivos:
 - `Cargando solo los registros nuevos o medificados`
 
 <div align = "center">
+
 ******************************************************************************
 
 <a href=""><img src="/Presentación/Slide2.jpg" width="100%"></a>
