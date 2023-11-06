@@ -40,8 +40,8 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
   
 ## About
-
--PROCESO dataset en diferentes formatos los CONVIERTO A CSV
+Extraer y transformar archivos:
+******************************************************************************
 | | Formatos |
 |--|----------------|
 | 1 | PARQUET  |
@@ -50,8 +50,7 @@
 | 4 | TXT |
 | 4 | CSV |
 ******************************************************************************
-<a href=""><img src="/Presentación/Slide2.jpg" width="100%"></a>
-******************************************************************************
+
 Crear base de datos,​
 
 Crear tablas: precio, producto, sucursal,​
@@ -59,9 +58,10 @@ Crear tablas: precio, producto, sucursal,​
 Insertar datos con carga incremental. ​
 
 Cargando solo los registros nuevos o medificados.
+
 ******************************************************************************
-
-
+<a href=""><img src="/Presentación/Slide2.jpg" width="100%"></a>
+******************************************************************************
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
