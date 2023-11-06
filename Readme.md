@@ -48,13 +48,14 @@
 Extraer y transformar archivos:
 </div>
 </br>
-|   | Formatos  |
-|---|-----------|
-| 1 |PARQUET    |
-| 2 | JSON      | 
-| 3 | XLSX      |
-| 4 | TXT       |
-| 5 | CSV       |
+
+## :hammer:Formatos de archivos
+
+- `PARQUET`
+- `JSON`
+- `XLSX`
+- `TXT`
+- `CSV`
 
 ******************************************************************************
 
