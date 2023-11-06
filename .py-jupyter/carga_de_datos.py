@@ -6,12 +6,10 @@ import funciones_transformacion
 sucursal_df,productos_df,precios_semana_20200413_df,precios_20200419_20200419_df,precios_20200426_20200426_df,precios_semana_20200503_df,precios_semana_20200518_df=funciones_transformacion.transformar_todos_los_archivos()
 
 import sqlite3
-def conectar_db():
-    # Conectar a la base de datos (si no existe, se creará)
-    conn = sqlite3.connect('mi_base_de_datos.db')
-    return conn
 
-conn=conectar_db()
+# Conectar a la base de datos (si no existe, se creará)
+conn = sqlite3.connect('./mi_base_de_datos.db')
+
 cursor = conn.cursor()
 
 
@@ -178,6 +176,3 @@ cursor.execute('SELECT COUNT(*) FROM precio')
 # Obtener el resultado de la consulta
 cantidad_registros = cursor.fetchone()[0]
 print("En la tabla precio se insertaron registros totales ",cantidad_registros)
-
-cursor.close()
-conn.close()
