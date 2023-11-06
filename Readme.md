@@ -27,8 +27,12 @@
 ## Directory Structure
 
 ```js
-├── jupyter
-│   ├── main.py
+├── .py-jupyter
+│   ├── jupyter
+│   │──extraccion_de_archivos.py
+│   │──funciones_transformacion.py
+│   │── carga_de_datos.py
+│   
 │ 
 └── README.md
 ```
@@ -45,6 +49,7 @@
 | 3 | XLSX |
 | 4 | TXT |
 | 4 | CSV |
+******************************************************************************
 <a href=""><img src="/Presentación/Slide2.jpg" width="100%"></a>
 ******************************************************************************
 Crear base de datos,​
