@@ -3,7 +3,7 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <div align = "center">
-<a href="https://github.com/bparedes21/PI01_DT_ENGINEERING/blob/main/.py-jupyter/JUPYTER/cloud.ipynb"><img src="/Presentación/cloud_super.png" width="100%">Imagen generada con Python</a>
+<a href="https://github.com/bparedes21/PI01_DT_ENGINEERING/blob/main/.py-jupyter/JUPYTER/cloud.ipynb"><img src="/Presentación/cloud_super.png" width="100%">Esta imagen fue generada con Python por mi :cloud:</a>
 
 # [Proyecto Data Engineer🧰 ETL, creacion de DB en SQLITE](#)
   
