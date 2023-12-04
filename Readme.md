@@ -1,9 +1,10 @@
-
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="30%"></a>
 
 <div align = "center">
-<a href="https://github.com/bparedes21/PI01_DT_ENGINEERING/blob/main/.py-jupyter/JUPYTER/cloud.ipynb"><img src="/Presentación/cloud_super.png" width="100%">Esta imagen fue generada con Python por mi :cloud:</a>
+	
+<a href="https://github.com/bparedes21/PI01_DT_ENGINEERING/blob/main/.py-jupyter/JUPYTER/cloud.ipynb"><img src="/Presentación/cloud_super.png" width="50%"></a>
+
+Esta imagen fue generada con Python por mi :cloud:
 
 # [Proyecto Data Engineer🧰 ETL, creacion de DB en SQLITE](#)
   
@@ -18,9 +19,6 @@
 | 1 | [About](#About)  |
 | 2 | [Setup](#setup)  | 
 | 3 | [Consultas_SQL](#Consultas_SQL)  | 
-
-
-
 
 </div>
 
@@ -47,27 +45,39 @@
 <div>
 
 ## About
-Extraer y transformar archivos:
-</div>
-</br>
 
-## :hammer: Formatos de archivos
-<a href="https://drive.google.com/drive/folders/1gG6ZoL7_mrfMvQv3hc_M5raXvk9S_FXw?usp=sharing">Desde carpera de Drive</a>
+### Acerca del Proyecto
 
-- `PARQUET`
-- `JSON`
-- `XLSX`
-- `TXT`
-- `CSV`
+Este proyecto tiene como objetivo principal la extracción, transformación y carga (ETL) de datos provenientes de diversos formatos de archivos almacenados en una carpeta de Google Drive. La ETL se realiza para varios formatos, incluyendo PARQUET, JSON, XLSX, TXT y CSV.
 
-******************************************************************************
+## Características Principales
 
-## :factory: Transformar y cargar
+### Proceso de ETL
 
-- `Crear base de datos SQL llamada: mi_base_de_datos`
-- `Crear tablas: precio, producto, sucursal`
-- `Insertar datos con carga incremental`
-- `Cargando solo los registros nuevos o medificados`
+1. **Extracción:**
+   - Los archivos se extraen de la carpeta especificada en Google Drive.
+
+2. **Transformación:**
+   - Los datos se transforman según las necesidades del proyecto.
+
+3. **Carga:**
+   - Se crea una base de datos SQL llamada "mi_base_de_datos".
+   - Se definen y crean tablas, incluyendo "precio", "producto" y "sucursal".
+   - La carga se realiza de manera incremental, insertando solo registros nuevos o modificados..
+   - 
+### Formatos de Archivos Soportados
+
+- **PARQUET:** Un formato eficiente para el almacenamiento de datos columnares.
+- **JSON:** Un formato flexible y ampliamente utilizado para intercambio de datos.
+- **XLSX:** Formato de hoja de cálculo de Microsoft Excel.
+- **TXT:** Archivos de texto plano.
+- **CSV:** Valores separados por comas, un formato común para datos tabulares.
+
+## Uso del Proyecto :factory: 
+
+1. **Ejecución del Script:**
+   ```bash
+   python etl_script.py
 
 <div align = "center">
 
