@@ -73,6 +73,8 @@ Este proyecto tiene como objetivo principal la extracción, transformación y ca
 - **TXT:** Archivos de texto plano.
 - **CSV:** Valores separados por comas, un formato común para datos tabulares.
 
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
 ## Uso del Proyecto :factory: 
 
 1. **Ejecución del Script:**
