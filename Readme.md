@@ -12,7 +12,7 @@ Esta imagen fue generada con Python por mi :cloud:
 
 </div>
 
-# Transformación del Comercio Minorista en Argentina: Proyecto de Ingeniería de Datos
+# Transformación de Datos del Comercio Minorista en Argentina: Proyecto de Ingeniería de Datos
 
 En el vertiginoso mundo del comercio minorista, donde la competencia es feroz y las expectativas del consumidor evolucionan rápidamente, la eficiencia operativa y la toma de decisiones informadas se vuelven cruciales para el éxito de cualquier empresa. En este contexto dinámico, presento un proyecto de ingeniería de datos destinado a transformar la gestión de sucursales, productos y precios en los supermercados de Argentina.
 
